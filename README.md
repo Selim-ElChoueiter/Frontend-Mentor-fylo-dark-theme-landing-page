@@ -29,11 +29,12 @@ It is not 100% perfect, many optimizations could have been made in the css such 
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![Desktop](https://github.com/Selim-ElChoueiter/Frontend-Mentor-fylo-dark-theme-landing-page/blob/main/Screenshots/large.png)
+![Mobile](https://github.com/Selim-ElChoueiter/Frontend-Mentor-fylo-dark-theme-landing-page/blob/main/Screenshots/small.png)
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Live Site URL](https://elaborate-peony-a132fe.netlify.app/)
 
 ## My process
 
